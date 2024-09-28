@@ -1,0 +1,8 @@
+-qir2%e2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sleepyjoeslondon.hotelmix.co.uk/ https://sleepyjoeslondon.hotelmix.co.uk/#lg=16118342&slide=1549171783 -O1 "C:\My Web Sites\Copy of the Website he wants me to copy (I forgot the name)" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp https://sleepyjoeslondon.hotelmix.co.uk/data/Photos/1920x1080/*
+File generated automatically on Sat, 28 Sep 2024 19:00:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

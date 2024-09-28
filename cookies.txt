@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hotelmix.co.uk	TRUE	/	FALSE	1999999999	_s	Bt5WjAGVVXfAnK9C_992132935
+.hotelmix.co.uk	TRUE	/	FALSE	1999999999	_wsl	4d11xSc2rG737Hgh
+

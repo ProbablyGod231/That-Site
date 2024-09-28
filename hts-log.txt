@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 28 Sep 2024 19:00:50 at https://sleepyjoeslondon.hotelmix.co.uk/ https://sleepyjoeslondon.hotelmix.co.uk/#lg=16118342&slide=1549171783 +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp https://sleepyjoeslondon.hotelmix.co.uk/data/Photos/1920x1080/*
+(winhttrack -qir2%e2C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sleepyjoeslondon.hotelmix.co.uk/ https://sleepyjoeslondon.hotelmix.co.uk/#lg=16118342&slide=1549171783 -O1 "C:\My Web Sites\Copy of the Website he wants me to copy (I forgot the name)" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp https://sleepyjoeslondon.hotelmix.co.uk/data/Photos/1920x1080/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:01:02	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+19:01:04	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/lg=16118342&slide=1549171783 (from primary/primary)
+19:01:49	Error: 	"Not Found" (404) at link https://sleepyjoeslondon.hotelmix.co.uk/data/Photos/1920x1080/* (from primary/primary)
+19:02:05	Error: 	"Not Found" (404) at link https://sleepyjoeslondon.hotelmix.co.uk/15467/1546743/1546743067.JPEG:/15467/1546743/1546743037.JPEG:/15467/1546743/1546743010.JPEG:/15467/1546742/1546742929.JPEG:/15467/1546743/1546743019.JPEG:/15467/1546743/1546743061.JPEG:/15467/1546744/1546744000.JPEG (from https://sleepyjoeslondon.hotelmix.co.uk/)
+19:02:52	Error: 	"Not Found" (404) at link https://sleepyjoeslondon.hotelmix.co.uk/15448/1544887/1544887618.JPEG:/15448/1544887/1544887582.JPEG:/15448/1544887/1544887534.JPEG:/15448/1544887/1544887564.JPEG:/15448/1544887/1544887591.JPEG:/15448/1544887/1544887600.JPEG:/15448/1544887/1544887630.JPEG (from https://sleepyjoeslondon.hotelmix.co.uk/)
+19:05:13	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/lg=16118342&slide=1549171783 (from primary/primary)
+19:05:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/lg=16118342&slide=1549171783 (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 26 seconds : 37 links scanned, 29 files written (1913672 bytes overall), 1 files updated [100954 bytes received at 379 bytes/sec], 369284 bytes transferred using HTTP compression in 5 files, ratio 19%, 2.2 requests per connection
+(5 errors, 2 warnings, 0 messages)

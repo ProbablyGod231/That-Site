@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.app.mews.com	TRUE	/	FALSE	1999999999	__cf_bm	7E7RWWQLSKeRmXNF.AhVTR7aAziLslbknbyjBU8y_U0-1727737646-1.0.1.1-cV0E_xlmgBaid.aQoqdQYNjV_rb9IXkvIQwx.0q3hr_S.x6SNRLYiWxtkNJ2B9.afMxNWNmUlCMfwBERnXRzrg
-.app.mews.com	TRUE	/	FALSE	1999999999	_cfuvid	oGgQskawAY.mFg_nDGOKab13F5wO2me1dcNAUjI2QbY-1727737646003-0.0.1.1-604800000
-app.mews.com	TRUE	/	FALSE	1999999999	SameSite	None
-.apps.mews.com	TRUE	/	FALSE	1999999999	__cf_bm	Ns17q2SvLFIoMlpnOYe8Rbbhyp.98LI1IlGsl8DF.1Q-1727737646-1.0.1.1-AoLgLhXFoTf2fgS2pBkTWq5KEGMJUAJQPvmlBvSvhAeitdLiQaXE.r339xLO__sHoacrj78f71pa6E3SbqYxUw
-apps.mews.com	TRUE	/	FALSE	1999999999	SameSite	None
-
